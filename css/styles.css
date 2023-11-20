@@ -1,0 +1,59 @@
+/* Adobe Font - Fit Variable */
+@import url("https://use.typekit.net/gpq8rzj.css");
+/* font-family: "fit-variable", sans-serif;
+font-variation-settings: "wdth" 482; */
+@import url("https://use.typekit.net/gpq8rzj.css");
+/* Alfabet Bold
+font-family: "alfabet", sans-serif;
+font-weight: 700;
+font-style: normal; */
+
+/* Google Font - Bebas Neue */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* font-family: 'Bebas Neue', sans-serif; */
+/* Font Awesome */
+
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* BODY */
+body {
+    background-color: #EAEAEA;
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+/* MAIN */
+main {
+    width: 80%;
+    margin: auto;
+    background-color:rgb(43, 43, 43);
+    border-radius: 15px;
+    padding: 5%;
+    /* outline: 1px solid red; */
+}
+
+h2,
+p,
+label,
+div {
+    color: whitesmoke;
+    margin-bottom: 2%;
+}
+
+input {
+    background-color:rgb(27, 245, 27);
+    color:rgb(43,43,43);
+    border-radius: 5px;
+    padding: 2%;
+}
+
+.btn {
+    margin-right: 5px;
+}
